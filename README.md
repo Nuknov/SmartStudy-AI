@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Powered by YouLearn.ai](https://img.shields.io/badge/Powered%20by-YouLearn.ai-667eea?logo=youtube&logoColor=white)](https://youlearn.ai)
-[![Built by YourName](https://img.shields.io/badge/Built%20by-YourName-000000?logo=github&logoColor=white)](https://github.com/yourusername)
+[![Built by Nuknov](https://img.shields.io/badge/Built%20by-Nuknov-000000?logo=github&logoColor=white)](https://github.com/Nuknov)
 
 **Study.lol** is a lightweight browser extension that transforms any YouTube video into an **interactive AI-powered study session** with one click.
 
