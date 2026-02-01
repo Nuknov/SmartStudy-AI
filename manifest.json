@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Study.lol YouTube Helper",
+  "version": "1.0",
+  "description": "Convert YouTube videos to interactive study sessions with study.lol",
+  "permissions": ["activeTab", "tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://www.youtube-nocookie.com/*"
+  ],
+  "icons": {
+    "32": "main-icon.png",
+    "128": "main-icon.png"
+  }
+}
