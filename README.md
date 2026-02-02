@@ -1,6 +1,6 @@
 # 📚 **Study.lol -- AI-Powered YouTube Learning Extension**
 
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Powered by YouLearn.ai](https://img.shields.io/badge/Powered%20by-YouLearn.ai-667eea?logo=youtube&logoColor=white)](https://youlearn.ai)
 [![🧠 AI Brain](https://img.shields.io/badge/🧠-AI%20Brain-E74C3C)]()
