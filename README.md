@@ -65,7 +65,7 @@ Designed for **seamless learning, zero friction**.
    ```bash
    git clone https://github.com/Nuknov/SmartStudy-AI.git
    
-   Or download and extract it
+   (Or download and extract it)
 
    cd SmartStudy-AI
    ```
