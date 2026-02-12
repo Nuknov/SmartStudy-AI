@@ -10,7 +10,7 @@
 **Study.lol** is a lightweight browser extension that transforms any YouTube video into an **interactive AI-powered study session** with one click.
 
 Minimal. Smart. Focused.  
-Built for **students, lifelong learners, and educators** who turn videos into knowledge.
+Built for **students, lifelong learners, researchers and educators** who turn videos into knowledge.
 
 ---
 
