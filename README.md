@@ -3,7 +3,6 @@
 [![Version](https://img.shields.io/badge/version-2.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Powered by YouLearn.ai](https://img.shields.io/badge/Powered%20by-YouLearn.ai-667eea?logo=youtube&logoColor=white)](https://youlearn.ai)
-[![🧠 AI Brain](https://img.shields.io/badge/🧠-AI%20Brain-E74C3C)]()
 [![Built by Nuknov](https://img.shields.io/badge/Built%20by-Nuknov-000000?logo=github&logoColor=white)](https://github.com/Nuknov)
 [![Red Team Research](https://img.shields.io/badge/Red%20Team%20Research-Nuknov-8B0000?logo=terminal)](https://nuknov.github.io)
 
