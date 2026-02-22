@@ -16,7 +16,7 @@ Built for **students, lifelong learners, researchers and educators** who turn vi
 ## 📸 **Screenshots**
 
 ![Study.lol Extension UI](SS1.jpg)
-![Study Session in Action](SS2.jpg)
+![Study Session in Active Action](SS2.jpg)
 
 ---
 
